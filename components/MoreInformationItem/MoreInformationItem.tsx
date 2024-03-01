@@ -32,7 +32,13 @@ export default function MoreInformationItem({
         </div>
         <p className="min-h-12">{description}</p>
       </div>
-      <Image src={imageUrl} alt={"Igreja"} width={1000} height={1000} />
+      <Image
+        src={imageUrl}
+        alt={"Igreja"}
+        width={1000}
+        height={1000}
+        className="rounded-xl max-h-96 object-cover"
+      />
       <div className="flex justify-between items-center">
         <div>
           <h3 className="font-bold">{addressTitle}</h3>

@@ -16,11 +16,11 @@ export default function MoreInformation() {
               "Gostaríamos muito de contar com a presença de todos vocês no momento em que nossa união será abençoada diante de Deus! Contamos com vocês!"
             }
             imageUrl={"/church.png"}
-            addressTitle={"Paróquia de Santo Afonso Maria de Ligório"}
+            addressTitle={"Paróquia de São Sebastião"}
             address={
-              "Av. Santos Dumont, s/n, Conj. Mirassol, Capim Macio, Natal/RN, CEP: 59078-200"
+              "Av. Coronel Estevam, 1657 - Alecrim, Natal - RN, 59035-000"
             }
-            addressUrl={"https://maps.app.goo.gl/9qqgAJgHMPuJiDJYA"}
+            addressUrl={"https://maps.app.goo.gl/6cchBbkgh3Zcp2F77"}
           />
 
           <MoreInformationItem
@@ -32,11 +32,11 @@ export default function MoreInformation() {
               "Convidamos você também para recepção após cerimônia religiosa. Vamos festejar juntos!"
             }
             imageUrl={"/party.png"}
-            addressTitle={"Salão de Festas do Cond. Green Club I"}
+            addressTitle={"Versailles Recepções"}
             address={
-              "Av. das Américas, 1722 Parque das Nações, Parnamirim/RN CEP: 59158-150"
+              "R. Cel. Milton Freire, 2919 - Cidade Jardim, Natal - RN, 59078-310"
             }
-            addressUrl={"https://maps.app.goo.gl/uMM8VMoR6mNihx8J9"}
+            addressUrl={"https://maps.app.goo.gl/CFLdE7zjptnACgzSA"}
           />
         </div>
       </div>
