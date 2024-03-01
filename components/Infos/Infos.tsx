@@ -10,8 +10,8 @@ export default function Infos() {
         <div>
           <h3 className="font-bold">Endereço para entrega:</h3>
           <p>
-            Condomínio Vila Verde, R. Pantanal, 150, bloco Jasmim, 1102 - Nova
-            Parnamirim, Parnamirim/RN, 59150-015
+            Condomínio Arruda, R. Jasmim, 1550, bloco A, 1111 - Capim Macio,
+            Natal/RN, 59999-999
           </p>
         </div>
       </div>
